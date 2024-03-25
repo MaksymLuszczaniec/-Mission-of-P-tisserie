@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(8, 8, 8);
+}
+b {
+    font-size: 30px;
+    font-weight: bold;
+}
+body {
+    background: #645757;
+    
+}
+.Logo {
+    text-indent: -999999px;
+    background: url('logo.png');
+    width: 800px;
+    height: 591px;
+}
+p {
+    font-size:30px;
+}
+img {
+    width: 400px,
+    height 300px
+  }
+  h1 {
+    color:red;
+    font-size: 60px;
+}
+b {
+    font-size: 40px;
+    color: azure;
+}
+ol {
+    font-size: 50px;
+    color: azure;
+}
+li {
+    font-size: 40px;
+}
+ol.red-header {
+    color: black;
+}
